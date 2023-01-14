@@ -58,8 +58,6 @@ export default class Navbar extends Component {
                   Technology
                 </Link>
               </li>
-
-
             </ul>
             <form className="d-flex" role="search">
               <input
